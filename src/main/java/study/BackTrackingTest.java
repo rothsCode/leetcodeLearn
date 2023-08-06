@@ -299,6 +299,7 @@ public class BackTrackingTest {
       for (int f = startJ; f < startJ + 3; f++) {
         if (numberBoard[g][f] == k) {
           return false;
+
         }
       }
     }
